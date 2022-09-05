@@ -5,7 +5,7 @@ DJ application that can load music and adjust playback. Similar to audio softwar
 ### Code
 Written in C++ using the JUCE library
 
-###Preview
+### Preview
 ![Finished DJ Player](sample.png)
 
 CM2005 OOP Final project
